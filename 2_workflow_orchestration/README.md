@@ -35,6 +35,7 @@ Complete the quiz shown below. It's a set of 6 multiple-choice questions to test
 - 692.6 MiB
 
 **Answer:**  
+- 128.3 MiB
 - Add this commands to taks extract to see size of file in logs  
   `- du -sh {{render(vars.file)}}`
 
