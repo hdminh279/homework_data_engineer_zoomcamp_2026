@@ -7,8 +7,10 @@ wheels/
 *.egg-info
 *.ipynb
 uv.lock
+zoomcamp-kestra-2026-c1b656de45db.json
 
 # Virtual environments
 .venv
 
 !notebook.ipynb
+*.parquet
