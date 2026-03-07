@@ -5,7 +5,6 @@ build/
 dist/
 wheels/
 *.egg-info
-*.ipynb
 uv.lock
 zoomcamp-kestra-2026-c1b656de45db.json
 
@@ -16,3 +15,4 @@ zoomcamp-kestra-2026-c1b656de45db.json
 *.parquet
 
 .bruin.yml
+.ipynb_checkpoints
